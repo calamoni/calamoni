@@ -4,8 +4,6 @@
 
 <img src="./fight-crossing.gif" alt="RedvsGreen" width="300" />
 
-![Light](./fight-crossing.gif)
-
 <!--
 **skitpack/skitpack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
