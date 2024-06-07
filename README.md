@@ -1,8 +1,8 @@
-## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=600&size=21&duration=4500&pause=1000&color=F7134F&background=48FF3500&random=false&width=570&lines=I'm+going+to+paint+the+network+red+with+this+one)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=600&size=21&duration=4500&pause=1000&color=F7134F&background=48FF3500&random=false&width=570&lines=I'm+going+to+paint+the+network+red+with+this+one.)](https://git.io/typing-svg)
 <img src="./fight-crossing.gif" alt="RedvsGreen" width="300" />
+
+
 
 <!--
 **skitpack/skitpack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
