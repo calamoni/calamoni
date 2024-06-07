@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=F7134F&background=48FF3500&random=false&width=435&lines=I'm+going+to+paint+the+network+red+with+this+one)](https://git.io/typing-svg)
+
 ![Light](./fight-crossing.gif)
 
 <!--
