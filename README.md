@@ -1,22 +1,6 @@
 ## Hi there 👋
 
-<div style="width: 20px; height: 20px; border-radius: 50%; background-color: green; animation: blink 1s infinite;"></div>
-
-<style>
-@keyframes blink {
-  0% { background-color: green; }
-  50% { background-color: red; }
-  100% { background-color: green; }
-}
-
-div {
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background-color: green;
-  animation: blink 1s infinite;
-}
-</style>
+![Light](./fight-crossing.gif)
 
 <!--
 **skitpack/skitpack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
