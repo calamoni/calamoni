@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=600&size=21&duration=4500&pause=1000&color=F7134F&background=48FF3500&random=false&width=570&lines=I'm+going+to+paint+the+network+red+with+this+one.)](https://git.io/typing-svg)
-<img src="./fight-crossing.gif" alt="RedvsGreen" width="300" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calamonik&theme=maroongold)]
+<img src="./fight-crossing.gif" alt="RedvsGreen" width="300" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calamoni&theme=maroongold)]
 
 🥋 Attempting to improve my programming... 
 
